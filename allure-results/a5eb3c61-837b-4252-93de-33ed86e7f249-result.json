@@ -1,0 +1,1 @@
+{"uuid":"a5eb3c61-837b-4252-93de-33ed86e7f249","historyId":"3a8963584204a39b23e1bb28f5e8d9d8","labels":[{"name":"suite","value":"ru.gotoqa.Json2ObjectDataBaseTest"},{"name":"package","value":"ru.gotoqa.Json2ObjectDataBaseTest"}],"name":"Test. Формат даты рождения каждого пользователя: YYYY-MM-DD","status":"passed","stage":"finished","start":1532961408212,"stop":1532961408212}

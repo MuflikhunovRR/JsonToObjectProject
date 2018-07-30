@@ -1,0 +1,1 @@
+{"uuid":"68b3122a-4019-43bf-a2c9-befb1155be52","historyId":"970f111fd3a54db1810b84a537b9b9b","labels":[{"name":"suite","value":"ru.gotoqa.Json2ObjectDataBaseTest"},{"name":"package","value":"ru.gotoqa.Json2ObjectDataBaseTest"}],"name":"Test. Все данные по каждому пользователю совпадают из файла с БД","status":"passed","stage":"finished","start":1532959604003,"stop":1532959604008}

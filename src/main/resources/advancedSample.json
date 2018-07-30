@@ -1,0 +1,25 @@
+[{
+  "id": 1,
+  "first_name": "Giulietta",
+  "last_name": "Capuleti",
+  "birthday": "1597-01-27",
+  "email": "giulietta@yahoo.it",
+  "phone": "255-145-1605",
+  "job": "Unemployed"
+}, {
+  "id": 2,
+  "first_name": "Emilia",
+  "last_name": "Clarke",
+  "birthday": "1986-10-23",
+  "email": "daenerys_targaryen@yahoo.com",
+  "phone": "565-137-5896",
+  "job": "Actress"
+}, {
+  "id": 3,
+  "first_name": "Lena",
+  "last_name": "Headey",
+  "birthday": "1973-10-03",
+  "email": "cersei_lannister@hollywood.com",
+  "phone": "336-150-5147",
+  "job": "Actress"
+}]
